@@ -1,9 +1,9 @@
 # Basic_CNN
 Basic Convolutional Neural Network.ipynb
 
-This project build 3 model: handwritten number detection, cassava leaf disease detection, comment's sentiment analysis.
+This project build 3 models: handwritten number detection, cassava leaf disease detection, comment's sentiment analysis.
 
-Access below gitbuh repositories to get details and demo:
+Access below github repositories to get details and demo:
 
 [Handwritten Number Detection](https://github.com/conglapgit45/MNIS_Handwritten_Number_Detection)
 
